@@ -1,0 +1,16 @@
+{
+  "name": "samplecontent",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "contentful": "^3.5.0",
+    "contentful-management": "^1.1.9",
+    "util": "^0.10.3"
+  }
+}
